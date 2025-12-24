@@ -1,0 +1,101 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color:cornflowerblue;
+}
+
+.container {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #6a7bd1, #7b5fc9);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left:450px;
+}
+
+
+.todo-card {
+  background: #ffffff;
+  width: 380px;
+  border-radius: 12px;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #2563eb;
+}
+
+.subtitle {
+  text-align: center;
+  color: gray;
+  margin-bottom: 20px;
+}
+
+label {
+  font-weight: bold;
+  color: #2563eb;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0 15px;
+  border-radius: 8px;
+  border: 1px solid #cbd5f5;
+}
+
+.row {
+  display: flex;
+  gap: 10px;
+}
+
+button {
+  width: 100%;
+  padding: 12px;
+  background: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #1d4ed8;
+}
+
+h2 {
+  margin-top: 20px;
+  color: #2563eb;
+}
+
+.empty {
+  text-align: center;
+  color: gray;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background: #f1f5ff;
+  padding: 10px;
+  border-radius: 8px;
+  margin-bottom: 8px;
+}
+
+small {
+  display: block;
+  color: gray;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+  color: #2563eb;
+  font-weight: bold;
+}
