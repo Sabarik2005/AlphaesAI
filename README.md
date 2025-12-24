@@ -1,12 +1,11 @@
-👋 Hi, I'm Sabari K
 
-💻 Intern @ AlphaesAi
-🌐 Domain: JavaScript Full-Stack Development
+  # Create Blue Themed Todo List
 
-🚀 About Me
+  This is a code bundle for Create Blue Themed Todo List. The original project is available at https://www.figma.com/design/ZFzNx4h4JkYzY7cMybGoyJ/Create-Blue-Themed-Todo-List.
 
-Passionate about building scalable web applications and learning end-to-end full-stack development.
+  ## Running the code
 
-Currently exploring modern JavaScript frameworks and backend technologies.
+  Run `npm i` to install the dependencies.
 
-Excited to solve real-world problems with clean, efficient code.
+  Run `npm run dev` to start the development server.
+  
